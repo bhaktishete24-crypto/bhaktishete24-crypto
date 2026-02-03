@@ -1,483 +1,180 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20World!%20I'm%20Bhakti%20Shete&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+```
+ ____  _           _    _   _   ____  _          _       
+| __ )| |__   __ _| | _| |_(_) / ___|| |__   ___| |_ ___ 
+|  _ \| '_ \ / _` | |/ / __| | \___ \| '_ \ / _ \ __/ _ \
+| |_) | | | | (_| |   <| |_| |  ___) | | | |  __/ ||  __/
+|____/|_| |_|\__,_|_|\_\\__|_| |____/|_| |_|\___|\__\___|
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=B.Tech+CSE+(Data+Science)+Student+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%92%BB;Data-Driven+Solution+Builder+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Transforming+Data+into+Intelligence+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Full+Stack+Developer;Data+Science+Enthusiast;Building+Smart+Solutions" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://my-resumeb24.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaktishete-7818b1385)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bhaktishete24@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhaktishete&color=00D9FF&style=flat)
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhaktishete&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/bhaktishete?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/bhaktishete?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
-
 ---
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 👨‍💻 About Me
 
 ```javascript
 const bhakti = {
-    pronouns: "She/Her",
-    location: "Shirpur, Maharashtra, India 🇮🇳",
-    education: "B.Tech CSE (Data Science)",
-    college: "R. C. Patel Institute of Technology",
-    background: "Diploma in Computer Science (Polytechnic)",
+    role: "Full Stack Developer & Data Scientist",
+    location: "Shirpur, Maharashtra 🇮🇳",
+    education: "B.Tech CSE (Data Science) @ R.C. Patel Institute",
+    background: "Diploma in Computer Science",
     
-    currentFocus: [
-        "Data Science & Machine Learning",
-        "Full Stack Web Development",
-        "Intelligent Systems",
-        "Scalable Solutions"
-    ],
+    currentlyLearning: ["Machine Learning", "Cloud Computing", "Advanced React"],
+    goals: ["Build impactful projects", "Contribute to open source", "Master AI/ML"],
     
-    passionateAbout: [
-        "Data-Driven Engineering",
-        "Building Smart Applications",
-        "Problem Solving with Code",
-        "Continuous Learning"
-    ],
-    
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I debug with console.log() and it works! 😄"
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> 
-  Tech Stack & Tools
-</h2>
+### 🛠️ Tech Stack
 
-<div align="center">
+```bash
+# Languages
+languages=(C C++ Java Python JavaScript TypeScript PHP)
 
-### 💻 Frontend Development
+# Frontend
+frontend=(HTML5 CSS3 React Bootstrap TailwindCSS)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind&theme=dark" />
-</p>
+# Backend
+backend=(python | Flask | PHP )
 
-### 🔧 Backend Development
+# Database
+database=(MySQL MongoDB SQLite)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,express,python,flask&theme=dark" />
-</p>
+# Data Science
+datascience=(Pandas NumPy Scikit-Learn TensorFlow Jupyter)
 
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
-</p>
-
-### 🛠️ Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php&theme=dark" />
-</p>
-
-### 🎨 Design & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,npm&theme=dark" />
-</p>
-
-### 📊 Data Science & ML
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-  Professional Experience
-</h2>
-
-<div align="center">
-
-### 🏢 Web Developer Intern
-**Softanic Solutions Pvt. Ltd.** • Jalgaon  
-*June 2024 - July 2024 (2 months)*
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-**🎯 Key Responsibilities:**
-- Built responsive user interfaces
-- Developed backend functionality
-- Database management & optimization
-- Collaborative team development
-- Real-world application projects
-
-</td>
-<td width="50%">
-
-**🛠️ Technologies Used:**
-- Frontend: HTML, CSS, JavaScript, Bootstrap
-- Backend: PHP, Node.js
-- Database: MySQL
-- Version Control: Git
-- Full-stack development workflow
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**📈 Key Learnings:**  
-Frontend-Backend Integration • API Development • Database Design • Team Collaboration • Agile Development
-
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  GitHub Statistics
-</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaktishete&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktishete&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktishete&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhaktishete&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-<h2 align="center">
-  🎓 Education Journey
-</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎯 Current Education
-**Bachelor of Technology (B.Tech)**  
-Computer Science & Engineering (Data Science)  
-**R. C. Patel Institute of Technology, Shirpur**  
-📅 August 2025 - March 2028
-
-<img src="https://img.shields.io/badge/Status-Pursuing-success?style=for-the-badge" />
-
-</td>
-<td align="center" width="50%">
-
-### 📚 Foundation
-**Diploma in Computer Science**  
-Polytechnic Education  
-**Govt. Polytechnic College**  
-📅 January 2022 - May 2025
-
-<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge" />
-
-</td>
-</tr>
-</table>
-
-**🎖️ Certification:** Data Science Laboratory (Completed)
-
-</div>
-
----
-
-<h2 align="center">
-  🎯 Skills & Expertise
-</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💻 **Web Development**
-- Responsive UI/UX Design
-- RESTful API Development
-- Full-Stack Architecture
-- Database Management
-- Modern Frameworks
-- Version Control (Git)
-
-</td>
-<td align="center" width="33%">
-
-### 📊 **Data Science**
-- Data Analysis & Visualization
-- Machine Learning Algorithms
-- Statistical Analysis
-- Data Preprocessing
-- Model Development
-- Jupyter Notebooks
-
-</td>
-<td align="center" width="33%">
-
-### 🧪 **Software Testing**
-- Testing Methodologies
-- Quality Assurance
-- Test Case Design
-- Bug Tracking
-- Manual Testing
-- Testing Tools
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<h2 align="center">
-  🚀 Current Focus & Goals
-</h2>
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Learning] --> B[Data Science]
-    A --> C[Machine Learning]
-    A --> D[Web Development]
-    B --> E[Build Projects]
-    C --> E
-    D --> E
-    E --> F[Create Impact]
-    F --> G[Smart Solutions]
+# Tools
+tools=(Git VS-Code Postman Figma npm)
 ```
 
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎯 Short-term Goals
-- ✅ Master Data Science fundamentals
-- ✅ Build ML-powered applications
-- ✅ Contribute to open-source projects
-- ✅ Enhance full-stack skills
-- ✅ Complete certifications
-
-</td>
-<td width="50%">
-
-### 🌟 Long-term Vision
-- 🚀 Become a Data Scientist
-- 🚀 Build scalable intelligent systems
-- 🚀 Work on meaningful projects
-- 🚀 Contribute to AI/ML community
-- 🚀 Continuous learning & growth
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">
-  🏆 Achievements & Highlights
-</h2>
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bhaktishete&theme=tokyonight&no-frame=true&row=1&column=7" />
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-</div>
-
-<div align="center">
-
-| 🎯 Achievement | 📝 Description |
-|:-------------:|:---------------|
-| 🎓 **Education** | Completed Diploma with hands-on experience |
-| 💼 **Internship** | 2-month internship at Softanic Solutions |
-| 🏅 **Certification** | Data Science Laboratory certified |
-| 💻 **Projects** | Built multiple full-stack applications |
-| 📚 **Learning** | Pursuing B.Tech in Data Science |
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-<h2 align="center">
-  💡 What I Bring to the Table
-</h2>
 
-<div align="center">
+### 💼 Experience
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png"/>
-<br><strong>Clean Code</strong>
-<br>Write maintainable, logical, and efficient code
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/brain.png"/>
-<br><strong>Problem Solver</strong>
-<br>Creative solutions to complex challenges
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/team.png"/>
-<br><strong>Team Player</strong>
-<br>Collaborative development experience
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/learning.png"/>
-<br><strong>Quick Learner</strong>
-<br>Adapt to new technologies rapidly
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<h2 align="center">
-  📫 Let's Connect!
-</h2>
-
-<div align="center">
-
-<a href="mailto:bhaktishete24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/bhaktishete-7818b1385">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://my-resumeb24.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-<a href="https://github.com/bhaktishete">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💬 Feel free to reach out for:
-
-**🤝 Collaboration Opportunities** • **💡 Project Ideas** • **🎓 Learning Together** • **☕ Tech Discussions**
-
-</div>
-
----
-
-<h2 align="center">
-  ⚡ Fun Facts About Me
-</h2>
-
-<div align="center">
-
-```javascript
-const funFacts = {
-    favoriteQuote: "Code is like humor. When you have to explain it, it's bad.",
-    codingStyle: "Clean, commented, and coffee-fueled ☕",
-    debuggingMethod: "Console.log() is my best friend 🐛",
-    learningApproach: "Learn by doing, fail fast, iterate faster 🚀",
-    motivation: "Building solutions that make a difference 💡",
-    weekend: "Coding side projects & exploring new technologies 💻"
-};
+```json
+{
+  "company": "Softanic Solutions Pvt. Ltd.",
+  "role": "Web Developer Intern",
+  "duration": "June 2024 - July 2024",
+  "location": "Jalgaon, Maharashtra",
+  "tech": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "Node.js", "MySQL"],
+  "learned": ["Full Stack Development", "API Development", "Team Collaboration"]
+}
 ```
 
+---
+
+### 🎓 Education
+
+```diff
++ B.Tech CSE (Data Science) - R.C. Patel Institute of Technology
+  Duration: August 2025 - March 2028 [ONGOING]
+  
++ Diploma in Computer Science - Government Polytechnic College
+  Duration: January 2022 - May 2025 [COMPLETED]
+  
++ Certification: Data Science Laboratory ✓
+```
+
+---
+
+### 🎯 2025 Roadmap
+
+```markdown
+[✓] Master React & build projects
+[✓] Deep dive into Data Science
+[ ] Complete ML/DL specialization
+[ ] Learn cloud platforms (AWS/Azure)
+[ ] Contribute to open source
+[ ] Build AI-powered applications
+[ ] Land dream job 🎯
+```
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhakti-shete-7818b1385/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="36" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://my-resumeb24.netlify.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="36" alt="Website"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://media.licdn.com/dms/image/v2/D4D22AQGgsJYc0u5O9Q/feedshare-shrink_2048_1536/B4DZwCvYKvJoAk-/0/1769572500356?e=1771459200&v=beta&t=fUCchc2XEdCYPb7mdEOP1J_okwpimU2DvntQLp0H2gE" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="36" alt="Certificate 1"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://media.licdn.com/dms/image/v2/D4D22AQF9njPa5o8nwA/feedshare-shrink_2048_1536/B4DZwCvYO2GgAk-/0/1769572500604?e=1771459200&v=beta&t=jWSKfH9gNJ9EoAgoB-ybzLtjV5vn2b2gid-Ykim4gHY" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="36" alt="Certificate 2"/>
+  </a>
+</p>
+
+
+
+
+
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaktishete-7818b1385)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-resumeb24.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaktishete24@gmail.com)
+
 </div>
 
 ---
 
-<h2 align="center">
-  📊 Coding Activity
-</h2>
-
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+```
+┌─────────────────────────────────────────────────┐
+│  "Code is poetry written in logic"             │
+│  Building the future, one commit at a time 🚀  │
+└─────────────────────────────────────────────────┘
+```
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bhaktishete&theme=tokyonight&hide_border=true&layout=compact" />
+### Thanks for visiting! Let's build something amazing together! 💻
 
-</div>
-
----
-
-<h2 align="center">
-  🌟 Quote of the Day
-</h2>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<h2 align="center">
-  🎯 Projects Showcase
-</h2>
-
-<div align="center">
-
-<a href="https://github.com/bhaktishete/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktishete&repo=project1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/bhaktishete/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktishete&repo=project2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaktishete/bhaktishete/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaktishete/bhaktishete/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhaktishete/bhaktishete/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-### 💙 Thank you for visiting my profile!
-
-**"Transforming Data into Scalable Solutions"**
-
-<img src="https://komarev.com/ghpvc/?username=bhaktishete&label=Profile%20Views&color=6366f1&style=flat-square" />
-
-**Made with ❤️ by Bhakti Shete**
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
